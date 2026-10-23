@@ -5,7 +5,7 @@
 ![Release](https://img.shields.io/github/v/release/Arale-Libr/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Arale-Libr/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/Arale-Libr/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/Arale-Libr/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/Arale-Libr/legion-del-mal?cacheSeconds=60)
 
 
 # 🦹‍♂️ La Legión del Mal
