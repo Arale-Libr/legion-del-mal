@@ -16,7 +16,7 @@
 Recordar:
 
 > _"¡Soy malo y eso es bueno! Nunca seré bueno y eso no es malo. No hay nadie que quiera ser, aparte de mí."_
-
+> _"Resulta que no se necesita de una medalla para probar que soy un buen chico"_
 ## ¿Quiénes somos?
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
